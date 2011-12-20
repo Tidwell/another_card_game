@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+}
+
+h1 {
+  font: 30px bold "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#forfit, #waiting {
+  display: none;
+}
